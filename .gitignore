@@ -1,0 +1,7 @@
+# Ignore data files
+data/raw/
+data/scratch/
+
+# Ignore virtual environment directories
+env/
+*.env
